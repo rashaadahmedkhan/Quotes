@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Using https://api.adviceslip.com/ to fetch quotes.
+
+## Image:
+![image](https://user-images.githubusercontent.com/54183706/118638730-c500cf80-b7f4-11eb-9a88-a97086ff10e0.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
