@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Uses https://api.adviceslip.com/ API to fetch quotes.
+Uses https://api.adviceslip.com/ API to fetch quotes for daily motivation.
 
 ## Image:
 ![image](https://user-images.githubusercontent.com/54183706/118638730-c500cf80-b7f4-11eb-9a88-a97086ff10e0.png)
